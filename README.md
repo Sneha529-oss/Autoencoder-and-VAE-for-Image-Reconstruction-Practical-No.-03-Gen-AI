@@ -79,7 +79,7 @@ Input (784) → Dense(256) → Dense(64) → [z_mean(16), z_log_var(16)] → Sam
 
 ---
 
-## 🔄 Workflow
+##  Workflow
 
 1. Import libraries and load the MNIST dataset
 2. Visualize sample digits and class distribution
