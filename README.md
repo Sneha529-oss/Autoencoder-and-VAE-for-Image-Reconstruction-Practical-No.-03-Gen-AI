@@ -18,11 +18,11 @@ A Dense Autoencoder (AE) and a Variational Autoencoder (VAE) are built, trained 
 
 ---
 
-## 🎯 Problem Statement
+##  Problem Statement
 
 Build an Autoencoder and a Variational Autoencoder (VAE) for image reconstruction and generation. Compare the performance of both models by analyzing the quality of reconstructed and generated images.
 
-## 🎯 Objective
+##  Objective
 
 To implement an Autoencoder and a Variational Autoencoder (VAE) for reconstructing images and generating new images similar to the training data. The models are compared on:
 - Reconstruction quality
