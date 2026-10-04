@@ -194,7 +194,7 @@ jupyter
 
 ---
 
-## 📖 References
+##  References
 
 1. Kingma, D. P., & Welling, M. (2014). *Auto-Encoding Variational Bayes.* ICLR 2014.
 2. LeCun, Y., Cortes, C., & Burges, C. J. C. *The MNIST Database of Handwritten Digits.* <http://yann.lecun.com/exdb/mnist/>
