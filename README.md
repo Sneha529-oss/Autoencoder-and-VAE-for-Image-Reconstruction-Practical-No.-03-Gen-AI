@@ -169,7 +169,7 @@ Training both models (plus the 2D latent-space model) takes about 2–4 minutes 
 
 ---
 
-## 📦 Requirements
+##  Requirements
 
 ```
 tensorflow
